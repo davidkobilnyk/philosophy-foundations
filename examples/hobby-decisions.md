@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions About Hobbies
+# Nine Real-Life Decisions About Hobbies
 
 Decisions about the part of life that is chosen freely and justified by nothing
 outside itself — which is what makes them surprisingly hard to reason about.
@@ -103,20 +103,9 @@ and now there is a child, or a partner who cannot sleep when you are out.
   the consequences of the bad outcome fall almost entirely on people who did not
   choose it.
 
-## 10. Teaching beginners or getting better yourself
-
-The club needs someone to run the beginners' session. Those are the hours you
-would otherwise spend improving, and you are at the point where improvement
-still comes quickly.
-
-- **Options:** teach; teach for a fixed term; decline and train; split the time.
-- **What makes it hard:** the thing exists at all because someone did this for
-  you, and there is no rule saying it has to be you, now, at the exact point it
-  costs most.
-
 ---
 
-## Why these ten
+## Why these nine
 
 They show why decisions about optional things are not easy just because the
 stakes are low:

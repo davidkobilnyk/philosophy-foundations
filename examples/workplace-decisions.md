@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions at Work
+# Nine Real-Life Decisions at Work
 
 Decisions inside an institution that pays you, ranks you, and can end your
 income — where your interests, your colleagues', and the organization's come
@@ -52,19 +52,7 @@ good enough. They have a mortgage and they know it is going badly.
   to give, and it is not what the job is actually paid for — and every month you
   delay is a month they are not looking elsewhere.
 
-## 5. Credit for shared work
-
-The idea was yours; the execution was collective; the write-up went out under
-someone else's name. Pushing for attribution makes you the person who pushes
-for attribution.
-
-- **Options:** raise it privately with them; raise it with your manager; correct
-  the record publicly; let it go.
-- **What makes it hard:** credit compounds into promotions and pay, so letting
-  it go is not costless — and the people who most need the credit are usually
-  the ones who look worst asking for it.
-
-## 6. Telling your manager you are interviewing
+## 5. Telling your manager you are interviewing
 
 You are two rounds into a process elsewhere. Your manager is about to staff you
 onto a year-long project, and has been decent to you.
@@ -75,7 +63,7 @@ onto a year-long project, and has been decent to you.
   in advance that your role was being cut, and disclosing early can make the
   decision for you.
 
-## 7. Covering for a teammate in crisis
+## 6. Covering for a teammate in crisis
 
 Their work has slipped badly for two months. There is a divorce, or an illness.
 You have been quietly redoing parts of it.
@@ -85,7 +73,7 @@ You have been quietly redoing parts of it.
 - **What makes it hard:** covering protects them now and delays the help that
   actually fits — and the person paying for it, invisibly, is you.
 
-## 8. Building the thing that is legal and bad
+## 7. Building the thing that is legal and bad
 
 The cancellation flow with the buried button, the metric everyone knows
 overstates the result, the fee disclosed on page eleven. Nothing here is
@@ -97,7 +85,7 @@ unlawful.
   by someone quieter, and "it is legal" is doing an enormous amount of work in
   a sentence nobody wants to finish.
 
-## 9. The promotion into management
+## 8. The promotion into management
 
 More money, more security, and an end to the work you are actually good at and
 enjoy. Declining it marks you as someone with no ambition.
@@ -108,7 +96,7 @@ enjoy. Declining it marks you as someone with no ambition.
   role often means refusing the pay — and you cannot find out whether you would
   be good at it without giving up the thing you would return to.
 
-## 10. Owning the mistake nobody noticed
+## 9. Owning the mistake nobody noticed
 
 Your error cost real money, or shipped a wrong number to a client. It has not
 been traced to you and probably never will be.
@@ -122,16 +110,16 @@ been traced to you and probably never will be.
 
 ---
 
-## Why these ten
+## Why these nine
 
 They separate the pressures that get flattened into "office politics":
 
-- **The rules are set by one party** — 1, 2, and 6 all involve norms of secrecy
+- **The rules are set by one party** — 1, 2, and 5 all involve norms of secrecy
   or loyalty that hold in one direction only.
-- **Kindness now against help later** — 3, 4, and 7 each buy someone comfort in
+- **Kindness now against help later** — 3, 4, and 6 each buy someone comfort in
   the short term at a cost they will pay without seeing it.
-- **What individual refusal actually achieves** — 8 is the clearest case: the
+- **What individual refusal actually achieves** — 7 is the clearest case: the
   thing gets built either way, so the question is what your participation
   itself amounts to.
-- **Costs that land wholly on you** — 5, 9, and 10 all pit an identifiable
-  personal cost against a diffuse or purely internal benefit.
+- **Costs that land wholly on you** — 8 and 9 pit an identifiable personal cost
+  against a diffuse or purely internal benefit.
