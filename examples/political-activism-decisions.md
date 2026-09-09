@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions in Political Activism
+# Nine Real-Life Decisions in Political Activism
 
 Decisions that arise once you have decided the cause is right and the question
 becomes what you are willing to do about it. Same format as the companion
@@ -64,19 +64,7 @@ find repugnant elsewhere. Without them the measure fails.
   and the people your alliance costs most are usually not the ones deciding
   whether to make it.
 
-## 6. Naming an individual or targeting the institution
-
-You can publish the name and address of the executive who signed the order, or
-you can direct the campaign at the company.
-
-- **Options:** target the institution only; name the decision-maker in their
-  professional capacity; publish personal details; publish nothing but
-  organize where they work.
-- **What makes it hard:** institutions diffuse responsibility until no person is
-  accountable, and personal pressure works partly because it is frightening —
-  which is also the reason it should worry you.
-
-## 7. The compromise bill
+## 6. The compromise bill
 
 The legislation delivers 40% of what you demanded, and its passage will drain
 the urgency that made the other 60% possible. Opposing it means people go
@@ -88,7 +76,7 @@ without the 40% now.
   against a speculative larger one, and the people who need it now are not the
   same people who would benefit later.
 
-## 8. Staying in an organization that has gone wrong
+## 7. Staying in an organization that has gone wrong
 
 The leadership has become unaccountable, or has taken a position you think
 betrays the point. You have ten years of relationships inside it.
@@ -99,7 +87,7 @@ betrays the point. You have ten years of relationships inside it.
   want the whole thing discredited; staying quietly makes you a name on the
   masthead that lends it credibility.
 
-## 9. Leaking what you agreed not to disclose
+## 8. Leaking what you agreed not to disclose
 
 You have documents that would prove the thing your campaign has alleged for
 years. You signed a confidentiality agreement, and the leak would be traced to
@@ -110,7 +98,7 @@ a small number of people.
 - **What makes it hard:** the promise was real and freely given, and keeping it
   protects a wrong that the promise was arguably designed to protect.
 
-## 10. Organizing full time or earning and giving
+## 9. Organizing full time or earning and giving
 
 You could organize for a modest salary, or take the high-paying job and fund
 three organizers a year with the difference.
@@ -123,16 +111,16 @@ three organizers a year with the difference.
 
 ---
 
-## Why these ten
+## Why these nine
 
 They separate the axes that arguments about activism usually run together:
 
 - **Who pays for the tactic** — you (1), the public whose sympathy you need
-  (2), a named individual (6), or people waiting on a benefit (7).
-- **Purity or effect** — 4, 5, and 10 are all versions of the same trade, and
+  (2), or the people waiting on a benefit you might block (6).
+- **Purity or effect** — 4, 5, and 9 are all versions of the same trade, and
   they come apart because the cost of staying clean falls on the cause rather
   than on you.
-- **Promises against outcomes** — 9 pits an obligation you actually incurred
+- **Promises against outcomes** — 8 pits an obligation you actually incurred
   against harm it would let continue.
-- **Whether the effect is even knowable** — 2, 3, and 7 turn on causal claims
+- **Whether the effect is even knowable** — 2, 3, and 6 turn on causal claims
   about persuasion and momentum that nobody can settle in advance.
