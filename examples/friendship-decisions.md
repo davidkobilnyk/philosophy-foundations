@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions About Friendship
+# Nine Real-Life Decisions About Friendship
 
 Decisions inside voluntary bonds with no contract, no institution, and no
 formal way to leave — where nothing anywhere specifies what is owed. Same
@@ -61,18 +61,7 @@ means acknowledging the gap; not doing it means the friendship quietly ends.
 - **What makes it hard:** friendships end almost entirely by attrition rather
   than decision, so the only way to lose one deliberately is to keep not acting.
 
-## 6. When two friends fall out
-
-They have stopped speaking. Each has told you their version, each is partly
-right, and both would like you to keep seeing them.
-
-- **Options:** stay close to both and discuss neither; take the side you think
-  is right; withdraw from both until it settles; tell each what you think.
-- **What makes it hard:** neutrality is itself a verdict to the person who
-  believes they were wronged, and there is no arrangement here that costs you
-  nothing.
-
-## 7. The friend who needs more than you have
+## 6. The friend who needs more than you have
 
 The crisis is genuine and it has lasted eighteen months. The calls are long,
 frequent, and one-directional, and you have started avoiding the phone.
@@ -83,7 +72,7 @@ frequent, and one-directional, and you have started avoiding the phone.
   anyone can supply, and the point at which you stop is the point at which they
   will remember you stopped.
 
-## 8. The secret you are keeping from your partner
+## 7. The secret you are keeping from your partner
 
 Your friend told you something in confidence. You do not keep things from your
 partner, and this is not yours.
@@ -94,7 +83,7 @@ partner, and this is not yours.
   candor, and you agreed to the second one without checking it against the
   first.
 
-## 9. Vouching for them
+## 8. Vouching for them
 
 They have asked you to refer them for a job, or to introduce them to someone
 who trusts you. You are fond of them and you have doubts about the work.
@@ -105,7 +94,7 @@ who trusts you. You are fond of them and you have doubts about the work.
   really yours to spend, and declining tells your friend something about your
   opinion of them that you would never say aloud.
 
-## 10. The friend who has done something genuinely wrong
+## 9. The friend who has done something genuinely wrong
 
 Not to you. To someone else, and it is serious, and they have not really
 reckoned with it.
@@ -118,15 +107,15 @@ reckoned with it.
 
 ---
 
-## Why these ten
+## Why these nine
 
 They isolate what makes friendship different from family, work, and dating:
 
-- **Nothing specifies what is owed** — 3, 5, and 7 have no norm, no contract,
+- **Nothing specifies what is owed** — 3, 5, and 6 have no norm, no contract,
   and no institution to appeal to; whatever you decide becomes the standard.
-- **Truth nobody asked for** — 2, 4, and 9 all involve information the other
+- **Truth nobody asked for** — 2, 4, and 8 all involve information the other
   person has not requested and may be worse off holding.
-- **Asymmetry with no accounting** — 1, 3, and 7 run an imbalance that both of
+- **Asymmetry with no accounting** — 1, 3, and 6 run an imbalance that both of
   you can see and neither of you is allowed to name.
-- **Loyalty with more than one claimant** — 6, 8, and 10 make you answerable to
+- **Loyalty with more than one claimant** — 7 and 9 make you answerable to
   someone outside the friendship at the same time.

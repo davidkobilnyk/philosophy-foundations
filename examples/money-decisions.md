@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions About Money
+# Eight Real-Life Decisions About Money
 
 Decisions where, unusually, the odds can be roughly estimated — and knowing
 them still does not settle it. Same format as the companion files: the
@@ -62,29 +62,7 @@ and might be worth a house.
   while its median outcome is zero, and you cannot diversify a bet that is also
   your employer, your salary, and your next reference.
 
-## 6. The lump sum or the income for life
-
-Take the pension as a single payment you control, or as a payment that arrives
-every month until you die.
-
-- **Options:** take the lump sum; take the annuity; take part of each; delay
-  and decide later.
-- **What makes it hard:** the annuity is insurance against living a long time,
-  which is not a risk anyone feels — and the lump sum is worth more on a
-  spreadsheet than in the hands of a person who will be eighty-five.
-
-## 7. Money you can afford to lose
-
-The single stock, the crypto, the friend's venture. You have set aside an
-amount whose loss would not hurt you.
-
-- **Options:** don't; a capped percentage; put it in and forget it; keep adding
-  while it works.
-- **What makes it hard:** "money I can afford to lose" is defined before the
-  loss and revised after it, and the position that stays small is not the one
-  that has been going up.
-
-## 8. Walking away from a debt you legally owe
+## 6. Walking away from a debt you legally owe
 
 Bankruptcy, or a strategic default, or simply stopping. It is lawful, it is
 what the system provides for, and someone will not be paid.
@@ -94,7 +72,7 @@ what the system provides for, and someone will not be paid.
 - **What makes it hard:** the law offers the exit deliberately, and using a
   provision designed for you still means a promise you made is not being kept.
 
-## 9. Your child's deposit or your own old age
+## 7. Your child's deposit or your own old age
 
 You can fund the house they cannot otherwise buy, and it comes out of the
 years when you will have no way left to earn.
@@ -105,7 +83,7 @@ years when you will have no way left to earn.
   years when you cannot — and the cost of that, if it lands, lands on them too,
   later and worse.
 
-## 10. Merging finances, or not
+## 8. Merging finances, or not
 
 Joint account, separate accounts, or a proportional split. One of you earns
 three times the other; one has debt from before.
@@ -118,15 +96,15 @@ three times the other; one has debt from before.
 
 ---
 
-## Why these ten
+## Why these eight
 
 They isolate what makes money decisions different from the rest of the corpus:
 
-- **Odds you can actually estimate** — 1, 3, and 7 are the rare cases where the
+- **Odds you can actually estimate** — 1 and 3 are the rare cases where the
   probabilities are roughly knowable and the answer still is not obvious.
-- **You only get one run** — 3, 4, and 6 all fail if you reason as though the
-  bet were repeatable, which is exactly how the arithmetic is usually presented.
-- **Where the risk goes when you shed it** — 1 and 8 both move risk onto someone
+- **You only get one run** — 3 and 4 both fail if you reason as though the bet
+  were repeatable, which is exactly how the arithmetic is usually presented.
+- **Where the risk goes when you shed it** — 1 and 6 both move risk onto someone
   else, once by contract and once by default; only one of them is priced.
-- **Money standing in for something else** — 9 and 10 are settled arithmetic and
+- **Money standing in for something else** — 7 and 8 are settled arithmetic and
   unsettled anyway, because the number is not what is being argued about.

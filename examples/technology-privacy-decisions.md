@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions About Technology and Privacy
+# Seven Real-Life Decisions About Technology and Privacy
 
 Decisions about tools where the people most affected are usually not in the
 room, and often do not know the decision was made. Same format as the companion
@@ -70,18 +70,7 @@ asked how it was made and the answer would change how it is received.
   differently by different readers, and you are the only one who knows there is
   a question.
 
-## 7. The free service that sells you
-
-It costs nothing, works well, and funds itself by collecting and brokering
-everything you do. The paid alternative is worse and you would have to move.
-
-- **Options:** pay for the alternative; use the free one deliberately and limit
-  what you feed it; use it without limits; leave the category entirely.
-- **What makes it hard:** consent given by everyone with no real alternative is
-  not obviously consent — and treating it as a personal purity decision is
-  exactly how a structural problem stays personal.
-
-## 8. Building the thing that replaces your team
+## 7. Building the thing that replaces your team
 
 You have been asked to automate work currently done by eight people, some of
 whom you like, all of whom will find out later.
@@ -92,39 +81,17 @@ whom you like, all of whom will find out later.
   being the one who builds it is the only position from which the transition
   might be made survivable.
 
-## 9. Posting the group photo
-
-Everyone in it had a good time. Two of them are careful about being online, one
-is a teacher, and nobody was asked.
-
-- **Options:** post it; ask everyone first; post with faces obscured; send it to
-  them privately instead.
-- **What makes it hard:** asking permission for every photograph is socially
-  impossible, and the cost of not asking falls entirely on whoever had the
-  strongest reason to be asked.
-
-## 10. Work software on your own phone
-
-The job requires the management profile, which brings mail and calendar and
-also remote wipe, location, and inventory of what else is installed.
-
-- **Options:** install it and accept the reach; carry a separate work device;
-  negotiate limits in writing; refuse and lose the flexibility.
-- **What makes it hard:** you can decline in principle and not in practice, and
-  the thing you are trading is not really access to a phone but the boundary
-  between two parts of your life.
-
 ---
 
-## Why these ten
+## Why these seven
 
 They separate the difficulties that get flattened into "privacy":
 
-- **Data about people who are not in the decision** — 1, 2, 3, and 9 all
-  dispose of information belonging to someone who was never asked.
-- **Consent that is not really available** — 5, 7, and 10 are agreed to freely
-  in form and unrefusable in practice.
+- **Data about people who are not in the decision** — 1, 2, and 3 all dispose of
+  information belonging to someone who was never asked.
+- **Consent that cannot be withdrawn** — 5 was given freely and has become
+  unrefusable, since turning it off would itself say something.
 - **Authority over someone else's privacy** — 4 is the case where you have both
   the right and the power, and using them costs the thing they were for.
-- **What counts as your own** — 6 and 8 ask what remains yours (your work, your
+- **What counts as your own** — 6 and 7 ask what remains yours (your work, your
   job) once a tool can do the part that used to identify it as yours.
