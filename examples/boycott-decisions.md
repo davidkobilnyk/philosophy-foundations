@@ -1,4 +1,4 @@
-# Ten Real-Life Decisions About Boycotting
+# Six Real-Life Decisions About Boycotting
 
 Decisions where the difficulty comes from the structure of boycotting itself —
 withholding your custom, your money, or your participation to change someone
@@ -54,19 +54,7 @@ resolutions, vote against the board, and force disclosure.
   someone who does not care. Staying keeps the leverage and makes you, on paper,
   an owner of the thing you object to.
 
-## 5. Whether to say you are boycotting
-
-You have quietly stopped buying from them. Saying so publicly would mean an
-argument with colleagues, a fight in a family group chat, or your name attached
-to a campaign.
-
-- **Options:** stay silent; tell people who ask; say so publicly and organize;
-  say so only where it might change a purchasing decision.
-- **What makes it hard:** an unannounced boycott is nearly indistinguishable
-  from a change in taste. The thing that gives it force is the announcement,
-  which is also the part that costs you.
-
-## 6. A boycott you think is aimed at the wrong target
+## 5. A boycott you think is aimed at the wrong target
 
 People you respect and generally stand with have called for one. You think the
 factual case against this particular company is weak, or that it has been
@@ -78,7 +66,7 @@ singled out arbitrarily.
   every call, and they also need someone willing to say the evidence is thin
   before a company is damaged over it.
 
-## 7. The shop that stocks the brand
+## 6. The shop that stocks the brand
 
 Your target is a manufacturer. The only place selling it locally is an
 independent store whose owner has no say over the supply chain and would be
@@ -90,51 +78,18 @@ badly hurt by losing your business.
   feel it, and the intermediaries who feel it most are the ones least able to
   do anything.
 
-## 8. Work made by someone who did something terrible
-
-The films, the records, the books are already made. Watching costs nothing extra;
-streaming pays royalties to an estate, or to the person, or to hundreds of
-collaborators who did nothing wrong.
-
-- **Options:** refuse entirely; consume secondhand or in ways that pay nothing;
-  pay and donate an equal amount; separate the work from the person and continue.
-- **What makes it hard:** the reasons split cleanly. If it is about not funding
-  them, the route matters and a library copy settles it. If it is about not
-  honoring them, no route helps.
-
-## 9. Deciding what would end it
-
-Two years in, the company has issued a statement, replaced an executive, and
-changed one policy. Nobody set out in advance what compliance would look like.
-
-- **Options:** declare the demand met and stop; hold out for the original
-  demand in full; publish concrete conditions now; keep going indefinitely.
-- **What makes it hard:** a boycott with no stated endpoint gives the target no
-  reason to move, and one you call off too early teaches everyone that a press
-  release is enough.
-
-## 10. A relative's business, or a wedding at a venue you object to
-
-The company is your cousin's employer, or your brother-in-law's firm, or the
-hotel your closest friend has already booked and paid for.
-
-- **Options:** attend and say nothing; attend and raise it privately
-  afterward; decline and explain; decline without explaining.
-- **What makes it hard:** at this scale your withdrawal has no economic effect
-  at all, so what is left is the statement — and the person who receives it is
-  not the one you meant to pressure.
-
 ---
 
-## Why these ten
+## Why these six
 
 They separate the questions that get collapsed into "should I boycott this":
 
 - **Whether the mechanism works** — 1 and 3 turn on whether withdrawal reaches
-  the target at all; 9 turns on whether it can ever be satisfied.
-- **Who actually bears the cost** — workers (2), an intermediary (7), a
-  relative (10), or you (1).
-- **Consequences or complicity** — 8 is the cleanest case: the same act is
-  either about funding or about honoring, and the two give different answers.
-- **Acting alone or as part of something** — 4, 5, and 6 are about coordination,
-  visibility, and how much of your own judgment to hand to the group.
+  the target at all, or only feels like it does.
+- **Who actually bears the cost** — workers (2), an intermediary who has no
+  power over the thing you object to (6), or you (1).
+- **Consequences or complicity** — 4 is the cleanest case: staying clean and
+  keeping leverage recommend opposite acts, and which one matters is the whole
+  disagreement.
+- **Acting alone or as part of something** — 5 is about how much of your own
+  judgment to hand to a group you otherwise stand with.
